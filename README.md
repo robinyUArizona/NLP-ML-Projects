@@ -1,8 +1,8 @@
 # Data-Science-Machine-Learning-Projects
-1. Bill Gates Twitter Sentimental Analysis - This is a sentiment analysis program that parses the tweets fetched from Twitter using Python
-2. Scrape News Articles - This program scrapes and summarizes news articles
-3. Movie Recommendation Engine - Created movie recommendation engine using the Python programming language and machine learning
-4. Classify Images using CNN 
-5. Classify Clothes using ANN - This program classify clothes from the Fashion MNIST data set using Artificial Neural Networks.
-6. Building Artificial Neural Networks
-
+-- Bill Gates Twitter Sentimental Analysis - This is a sentiment analysis program that parses the tweets fetched from Twitter using Python
+-- Scrape News Articles - This program scrapes and summarizes news articles
+-- Movie Recommendation Engine - Created movie recommendation engine using the Python programming language and machine learning
+-- Classify Images (cifar10) using CNN 
+-- Classify Clothes using ANN and CNN - This program classify clothes from the Fashion MNIST data set using Artificial Neural Networks.
+-- Spam Text Message Classification
+-- Building Artificial Neural Networks
