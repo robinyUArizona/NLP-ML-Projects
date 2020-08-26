@@ -1,4 +1,4 @@
-# Big Data - Natural Language Processing - Machine-Learning -- Projects
+# Natural Language Processing - Machine-Learning -- Projects
 -- **Bill Gates Twitter Sentimental Analysis** - This is a sentiment analysis program that parses the tweets fetched from Twitter using Python <br>
 -- **Scrape News Articles** - This program scrapes and summarizes news articles <br>
 -- **Movie Recommendation Engine** - Created movie recommendation engine using the Python programming language and machine learning <br>
